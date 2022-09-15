@@ -16,3 +16,22 @@ Initially we thought of web crawling over reputed and renowned websites to extra
 <p align=center>
 <img src='https://github.com/Curovearth/Fake-News-Text-Classification-NLP/blob/main/nlp.png' width=700/>
 </p>
+
+## References:
+
+- Latent Dirichlet Allocation: 
+  - <a href="http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/">Intro to LDA</a>
+  - <a href="https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2">Towards datascience in depth exaplanation</a>
+  
+---
+<div align=center>
+
+Share it with the world.
+
+Let the information be Free!
+
+<samp>If you like it, make sure to ⭐ it and encouraging you to make your own fork and play around with the code.</samp>
+<hr>
+👽 Swarup Tripathy
+👽 Aron Samuel Jacob
+</div>
